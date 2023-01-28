@@ -4,4 +4,6 @@
 
 # Detail №2
 
-![Detail №2](https://github.com/OleksandrMarkov/getting-started-with-AutoCAD/blob/main/Detail2.png)
+![Detail №2](https://github.com/OleksandrMarkov/getting-started-with-AutoCAD/blob/main/Detail%202.png)
+
+
